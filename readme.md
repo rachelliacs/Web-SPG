@@ -1,4 +1,4 @@
-Sistem ini dibuat untuk memudahkan sekolah dalam melayani PPDB (Pendaftaran Peserta Didik Baru), yang mana sistem ini masih sangat sederhana.
+Tampilan Web SPG (Sistem Pendaftaran Grafika), yang mana tampilan ini masih sangat sederhana dibuat menggunakan HTML, CSS, dan JavaScript.
 
 Fitur yang ada pada sistem ini adalah:
   1. Melihat artikel
