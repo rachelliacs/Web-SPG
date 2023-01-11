@@ -1,12 +1,13 @@
-Tampilan Web SPG (Sistem Pendaftaran Grafika), yang mana tampilan ini masih sangat sederhana dibuat menggunakan HTML, CSS, dan JavaScript.
+# Tampilan Sistem Pendaftaran Grafika
+Tampilan website yang masih sangat sederhana dibuat menggunakan bahasa pemrograman **`HTML`**, **`CSS`**, **`JavaScript`**, dan menggunakan bantuan dari framework **`Bootstrap`**.
 
-Fitur yang ada pada sistem ini adalah:
-  1. Melihat artikel
-  2. Melakukan verifikasi nilai
-  3. Melakukan pendaftaran
-  4. Melihat data siswa diterima
+### Fitur yang ada pada sistem ini adalah:
+* Melihat artikel
+* Melakukan verifikasi nilai
+* Melakukan pendaftaran
+* Melihat data siswa diterima
 
-Preview
+### Preview
 
 ![screencapture](assets/screencaptures/homepage.png)<br>
 ![screencapture](assets/screencaptures/artikel.png)<br>
